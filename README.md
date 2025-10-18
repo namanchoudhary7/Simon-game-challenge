@@ -1,5 +1,7 @@
 🎮 Simon Game Challenge
+
 💡 Overview
+
 This is a digital recreation of the classic electronic memory game, Simon. The project challenges players to repeat a progressively longer and faster sequence of lights and sounds. It was primarily built to demonstrate proficiency in core front-end web development concepts.
 
 This game is a fantastic way to practice DOM manipulation, event handling, and complex game logic using JavaScript.
@@ -38,11 +40,11 @@ This is a standalone frontend project, meaning no server-side setup is required.
 
 1. Clone the repository:
   Bash
-  git clone https://github.com/namanchoudhary7/Simon-game-challenge.git
+  "git clone https://github.com/namanchoudhary7/Simon-game-challenge.git"
  
 2. Navigate to the project folder:
   Bash
-  cd Simon-game-challenge
+  "cd Simon-game-challenge"
 4. Run the game: Simply double-click the index.html file to open it in your default web browser, or right-click and choose "Open with..."
 
 Created by Naman Choudhary.
